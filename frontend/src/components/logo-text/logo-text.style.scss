@@ -1,0 +1,15 @@
+.logo-text{
+    font-family: "Montserrat", sans-serif;
+    color:#242424;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--font-size-heading-1);
+    font-weight: 600;
+
+    .logo-link{
+        text-decoration: none;
+        color:#106BA7;
+    }
+}
